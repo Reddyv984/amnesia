@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/amnesia/static/css/main.dcc3d619.chunk.css",
-    "main.js": "/amnesia/static/js/main.9faecb20.chunk.js",
-    "main.js.map": "/amnesia/static/js/main.9faecb20.chunk.js.map",
-    "runtime-main.js": "/amnesia/static/js/runtime-main.1f5eda7c.js",
-    "runtime-main.js.map": "/amnesia/static/js/runtime-main.1f5eda7c.js.map",
-    "static/css/2.c1256375.chunk.css": "/amnesia/static/css/2.c1256375.chunk.css",
-    "static/js/2.c9307b56.chunk.js": "/amnesia/static/js/2.c9307b56.chunk.js",
-    "static/js/2.c9307b56.chunk.js.map": "/amnesia/static/js/2.c9307b56.chunk.js.map",
-    "index.html": "/amnesia/index.html",
-    "static/css/2.c1256375.chunk.css.map": "/amnesia/static/css/2.c1256375.chunk.css.map",
-    "static/css/main.dcc3d619.chunk.css.map": "/amnesia/static/css/main.dcc3d619.chunk.css.map",
-    "static/js/2.c9307b56.chunk.js.LICENSE.txt": "/amnesia/static/js/2.c9307b56.chunk.js.LICENSE.txt"
+    "main.css": "/amnesia.git/static/css/main.dcc3d619.chunk.css",
+    "main.js": "/amnesia.git/static/js/main.9faecb20.chunk.js",
+    "main.js.map": "/amnesia.git/static/js/main.9faecb20.chunk.js.map",
+    "runtime-main.js": "/amnesia.git/static/js/runtime-main.71f6ebc6.js",
+    "runtime-main.js.map": "/amnesia.git/static/js/runtime-main.71f6ebc6.js.map",
+    "static/css/2.c1256375.chunk.css": "/amnesia.git/static/css/2.c1256375.chunk.css",
+    "static/js/2.c9307b56.chunk.js": "/amnesia.git/static/js/2.c9307b56.chunk.js",
+    "static/js/2.c9307b56.chunk.js.map": "/amnesia.git/static/js/2.c9307b56.chunk.js.map",
+    "index.html": "/amnesia.git/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/amnesia.git/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.dcc3d619.chunk.css.map": "/amnesia.git/static/css/main.dcc3d619.chunk.css.map",
+    "static/js/2.c9307b56.chunk.js.LICENSE.txt": "/amnesia.git/static/js/2.c9307b56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f5eda7c.js",
+    "static/js/runtime-main.71f6ebc6.js",
     "static/css/2.c1256375.chunk.css",
     "static/js/2.c9307b56.chunk.js",
     "static/css/main.dcc3d619.chunk.css",
